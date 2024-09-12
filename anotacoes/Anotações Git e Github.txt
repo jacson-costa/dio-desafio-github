@@ -19,3 +19,7 @@ git add -A
 Commitar
 
 git commit -m "oque foi alterado"
+
+Enviar informações para o Github
+
+git push origin main
