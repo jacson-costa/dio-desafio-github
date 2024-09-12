@@ -1,0 +1,16 @@
+Desafio
+
+Clonar um repositório
+
+git clone <url>
+
+Verificando se ha pendecias
+
+git status
+
+
+
+Adicionando pendencias a arvore
+
+git add .   ou
+git add -A
